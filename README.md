@@ -9,7 +9,8 @@ The dataset utilized in this module is sourced from Supplementary Table 5a of "*
 python app.py
 ```
 ## Output
-Below are the example screenshots of the output:
+Below are some example screenshots of the output:
+
 <img width="1270" alt="Condition" src="https://github.com/tamarintandra/Interactive-Plots-eQTL-Comparison/assets/140521132/aa8de2bd-3156-433d-888d-79a64efb542e">
 
 <img width="1272" alt="Cell Type" src="https://github.com/tamarintandra/Interactive-Plots-eQTL-Comparison/assets/140521132/a53ce0e3-dbb1-40e0-88a5-c747b327186a">
