@@ -6,7 +6,7 @@ The objective of this Python module is to generate interactive plots using Plotl
 The dataset utilized in this module is sourced from Supplementary Table 5a of "Dissecting human population variation in single-cell responses to SARS-CoV-2" (2022) by Aquino *et al.* It contains detailed information about the identified ancestry-specific eQTLs at the immune lineage level. An example usage of the script is:
 
 ```
-    python app.py
+python app.py
 ```
 ## Output
 Below are the example screenshots of the output:
