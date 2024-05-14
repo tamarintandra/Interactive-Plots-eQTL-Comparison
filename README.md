@@ -1,14 +1,16 @@
 # Interactive-Plots-eQTL-Comparison
 
-The objective of this Python module is to generate interactive plots using Plotly Dash, facilitating visual exploration and comparison of eQTL effect sizes across different cell types and conditions between two different studies. This tool aims to help researchers gain insights into the concordance between the two studies, allowing a deeper understanding of how genetic variations influence gene expression across diverse experimental conditions and cell types.
+The objective of this Python module is to generate interactive plots using Plotly Dash, facilitating visual exploration and comparison of eQTL effect sizes across different immune lineages and experimental conditions. This tool aims to help gain insights into the concordance between genetic control of immune response variation and the impact of various experimental conditions (NS: non-stimulated, COV: stimulated with SARS-CoV-2 virus, and IAV: stimulated with influenza A virus) on eQTL effects.
 
 ## Usage
-Two datasets that were used in this module are table S8 of "Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus" (2022) by Perez *et al.* and table s10 of "
+The dataset utilized in this module is sourced from Supplementary Table 5a of "Dissecting human population variation in single-cell responses to SARS-CoV-2" (2022) by Aquino *et al.* It contains detailed information about the identified ancestry-specific eQTLs at the immune lineage level.
 
 ```
 An example usage of the script is:
 
-    ./app.py
+    python app.py
 
 ```
+## Output
+Below are the example screenshots of the output:
 
