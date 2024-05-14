@@ -11,3 +11,5 @@ python app.py
 ## Output
 Below are the example screenshots of the output:
 
+## Citation
+[1] Aquino, Y., Bisiaux, A., Li, Z. et al. Dissecting human population variation in single-cell responses to SARS-CoV-2. *Nature* **621**, 120–128 (2023). https://doi.org/10.1038/s41586-023-06422-9
