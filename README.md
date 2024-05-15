@@ -15,6 +15,7 @@ python app.py
 ## Output
 Below are some example screenshots of the output:
 
+![Hovering over the data points will display the variant ID and gene name.]
 <img width="1270" alt="Condition" src="https://github.com/tamarintandra/Interactive-Plots-eQTL-Comparison/assets/140521132/aa8de2bd-3156-433d-888d-79a64efb542e">
 
 ---
